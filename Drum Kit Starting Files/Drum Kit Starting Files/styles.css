@@ -12,7 +12,7 @@ h1{
   height: 110px;
   width: 110px;
   margin: 30px;
-  border: 5px solid rgb(167, 221, 243);
+  border: 5px solid rgb(5,48,65);
   border-radius: 20px;
   font-size: 2rem;
   background-color: rgb(59, 87, 87);
@@ -50,3 +50,9 @@ footer{
   background-image: url("images/tom3.png " );
 }
 .l{background-image: url("images/tom4.png " );}
+
+.pressed{
+  box-shadow: 0 3px 4px 0 #103c4b;
+  opacity: 0.5;
+}
+
